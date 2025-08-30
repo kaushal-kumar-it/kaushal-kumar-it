@@ -49,7 +49,12 @@
 ## 🎯 Fun Side Projects
 - 🖼️ **Imageify** – AI-powered tool that generates images from text prompts  
 - 🩺 **Health Portal** – Store & share medical records securely  
-- 💰 **Finance Tracker** – MERN + Gemini AI for smart insights  
+- 💰 **Finance Tracker** – MERN + Gemini AI for smart insights
+- ## 🐍 Contribution Snake
+
+![github contribution grid snake](https://raw.githubusercontent.com/kaushal-kumar-it/kaushal-kumar-it/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake dark](https://raw.githubusercontent.com/kaushal-kumar-it/kaushal-kumar-it/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ---
 
