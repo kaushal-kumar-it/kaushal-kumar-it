@@ -1,15 +1,15 @@
 # Hi there, I'm Kaushal 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaushal-kumar-it&color=blueviolet&style=for-the-badge)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaushal-kumar-a32582294/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)  
 
 ---
 
 ## 🚀 About Me
-- 🎓 2nd Year IT Student at **NIT Jalandhar**  
+- 🎓 3rd Year IT Student at **NIT Jalandhar**  
 - 🛠️ Passionate about **Full Stack Development** (MERN & Next.js)  
-- 🤖 Exploring **AI + Web** (AI Study Buddy, CodeQuest, Health Portal)  
+- 🤖 Exploring **AI + Web** (AI Study Buddy, Imageify, Health Portal)  
 - 💡 Love building projects that **solve real-world problems**  
 - 🌱 Currently learning **System Design & Cloud**  
 
@@ -47,15 +47,15 @@
 ---
 
 ## 🎯 Fun Side Projects
-- 🔥 **CodeQuest** – Gamified DSA learning with AI storytelling  
+- 🖼️ **Imageify** – AI-powered tool that generates images from text prompts  
 - 🩺 **Health Portal** – Store & share medical records securely  
 - 💰 **Finance Tracker** – MERN + Gemini AI for smart insights  
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [Kaushal Kumar](https://www.linkedin.com/in/kaushal-kumar-a32582294/)  
+- 📧 Email: [techs308@gmail.com](mailto:techs308@gmail.com)  
 
 ---
 
